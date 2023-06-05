@@ -1,0 +1,66 @@
+body{
+    margin: 0px;
+    font-family:fantasy;
+    font-size: 20px;
+    line-height: 20px;
+}
+
+header{
+    background-color: goldenrod;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+h1,h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header h1{
+
+    color: white;
+    font-size: 50px;
+    font-weight: 100px;
+    font-family:fantasy;
+}
+
+header img{
+       border-radius: 50px;
+       width: 400px;
+       border: 5px solid white;
+
+}
+
+main{
+    max-width: 1200px;
+    margin: 10px;
+    padding: 20px;
+}
+
+main img{
+    max-width: 100%;
+    border: 5px solid black;
+}
+
+a{
+    color:darkgoldenrod;
+    font-size: 30px;
+}
+
+a:hover{
+    color: white;
+    background-color: goldenrod;
+}
+
+footer{
+    color: black;
+    text-align: right;
+    margin-right: 20px;
+    background-color: goldenrod;
+}
+
+p.caption{
+    color:black;
+    font-style: italic;
+    margin-top: 0px;
+}    
